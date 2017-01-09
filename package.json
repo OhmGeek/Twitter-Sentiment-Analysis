@@ -1,0 +1,33 @@
+{
+  "name": "nodewp",
+  "version": "1.0.0",
+  "description": "Web programming assignment for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodejs index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OhmGeek/Twitter-Sentiment-Analysis.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "sentiment"
+  ],
+  "author": "Ryan Collins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OhmGeek/Twitter-Sentiment-Analysis/issues"
+  },
+  "homepage": "https://github.com/OhmGeek/Twitter-Sentiment-Analysis#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "node-rest-client": "^2.0.1",
+    "node-twitter-api": "^1.8.0",
+    "path": "^0.12.7",
+    "promises": "^0.2.5",
+    "twitter": "^1.7.0"
+  }
+}
